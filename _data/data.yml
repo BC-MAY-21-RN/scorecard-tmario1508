@@ -7,13 +7,13 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Mario Torres Espinosa # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: tmario1508@gmail.com
+  phone: (456) 1088050
   website: # No agregar http://
   linkedin: brightcoders
   github: brightcoders
@@ -31,9 +31,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -54,35 +51,20 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
+  - degree: Maestría en Tecnologías Web y Dispositivos Móviles
+    university: Universidad de la Salle Bajío
     time: 2020 Oct - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Ingeniería en Tecnologías de la Información en Programación
+    university: Sistema Avanzado de Bachillerato y Educación Superior en el Estado de Guanajuato
+    time: 2014 - 2019
     details: |
       Unsupervised deep learning for automatic behavior analysis
 
         - Unsupervised learning
         - Representaion learning
         - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -122,22 +104,22 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: JavaScript
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: Angular
+      level: 60%
 
-    - name: Matlab
-      level: 100%
+    - name: NodeJs
+      level: 60%
 
-    - name: C/C++
+    - name: React Native
+      level: 40%
+
+    - name: Flutter
+      level: 40%
+
+    - name: .NET MAUI
       level: 40%
 
 # NO MODIFICAR
