@@ -56,7 +56,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a Mobile Developer with a background in backend. I have a passion for learning new technologies and I am always looking for new opportunities to learn and grow.
+    I am a Mobile Developer with a background in backend. I have a passion for learning new technologies and I am always looking for new opportunities to learn and grow. I an also a self-taught developer, I have experience in the field of frontend development.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -64,12 +64,7 @@ educationcomplete:
     university: Universidad de la Salle Bajío
     time: 2020 Oct - May 2022
     details: |
-      Development of web applications with microservices, native and cross-platform mobile applications.
-        - Flutter
-        - Angular
-        - Docker
-        - Swift
-        - Kotlin
+      Development of web applications with microservices, native and cross-platform mobile applications with Flutter, Angular, React Native, Kotlin, Xamarin, Swift, Docker, and more.
 
   - degree: Ingeniería en Tecnologías de la Información en Programación
     university: Sistema Avanzado de Bachillerato y Educación Superior en el Estado de Guanajuato
@@ -81,7 +76,7 @@ educationcomplete:
 experiences:
   - role: Backend Developer
     time: 2022 - Present
-    company: Nuclea Solutions, Zapopan Jalisco
+    company: Nuclea Solutions, Zapopan, Jalisco
     details: |
       Development of APIs for the projects of the company.
         - Firebase
@@ -114,7 +109,7 @@ skills:
     - name: JavaScript
       level: 70%
 
-    - name: Angular
+    - name: TypeScript
       level: 60%
 
     - name: NodeJs
@@ -131,6 +126,9 @@ skills:
     
     - name: GitHub
       level: 70%
+    
+    - name: Firebase
+      level: 80%
 
 # NO MODIFICAR
 footer: >
